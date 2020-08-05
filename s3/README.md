@@ -1,5 +1,4 @@
 #  S3 with  terraform
-​=======================
 
 Terraform module to create S3 bucket on AWS
 ​
